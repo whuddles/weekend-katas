@@ -1,0 +1,6 @@
+C:\Users\whudd\Projects\te-work\module-1\08A_Optional_Extra_Exercises\WeekendExercises\bin\Debug\Exercises.dll
+C:\Users\whudd\Projects\te-work\module-1\08A_Optional_Extra_Exercises\WeekendExercises\bin\Debug\Exercises.pdb
+C:\Users\whudd\Projects\te-work\module-1\08A_Optional_Extra_Exercises\WeekendExercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+C:\Users\whudd\Projects\te-work\module-1\08A_Optional_Extra_Exercises\WeekendExercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\whudd\Projects\te-work\module-1\08A_Optional_Extra_Exercises\WeekendExercises\obj\Debug\Exercises.dll
+C:\Users\whudd\Projects\te-work\module-1\08A_Optional_Extra_Exercises\WeekendExercises\obj\Debug\Exercises.pdb
